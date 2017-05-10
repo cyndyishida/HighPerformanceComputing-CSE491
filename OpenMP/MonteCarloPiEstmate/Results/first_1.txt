@@ -1,0 +1,15 @@
+Sequential Calculation: 3.13432
+This is -0.00727265 away from the correct value of PI.
+
+ParallelCalculation with atomics: 3.14084
+This is -0.000752654 away from the correct value of PI.
+Number of iterations:100000 Number of Threads:1
+Parallel atomic calculation is VALID!
+Sequential Time: 0.003635 Parallel Atomic Time: 0.00703208, Speedup: 0.516917
+
+
+ParallelCalculation with reductions: 3.14084
+This is -0.000752654 away from the correct value of PI.
+Number of iterations: 100000 Number of Threads: 1
+Parallel reduction calculation is VALID!
+Sequential Time: 0.003635 Parallel Reduction Time: 0.00319969 Speedup: 1.13605
