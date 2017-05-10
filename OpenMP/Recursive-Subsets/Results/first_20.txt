@@ -1,0 +1,13 @@
+
+number of weigts: 15
+number of threads: 20
+main set : 0.840188 0.394383 0.783099 0.798440 0.911647 0.197551 0.335223 0.768230 0.277775 0.553970 0.477397 0.628871 0.364784 0.513401 0.952230 
+main sum = 8.797189
+
+Parallel minimum diff = 4.39859436517516
+parallel time needed = 0.046305
+
+
+Serial minimum diff = 4.39859436517516
+serial time needed = 0.032665
+

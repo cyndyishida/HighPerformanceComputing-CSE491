@@ -1,0 +1,24 @@
+#! /bin/bash -login
+
+#PBS -l walltime=01:00:00 ,nodes=1:ppn=28 ,feature=intel16
+#PBS -j oe
+#PBS -N subset
+
+#change to the working directory where code is located
+#cd ~/cse491-ishidacy/homework/3/bonus
+cd $PBS_O_WORKDIR
+
+./bonus 15 1 > first_1.txt 
+./bonus 15 2 > first_2.txt
+./bonus 15 4 > first_4.txt
+./bonus 15 8 > first_8.txt
+./bonus 15 14 > first_14.txt
+./bonus 15 20 > first_20.txt
+./bonus 15 28 > first_28.txt
+./bonus 20 1 > second_1.txt
+./bonus 20 2 > second_2.txt
+./bonus 20 4 > second_4.txt
+./bonus 20 8 > second_8.txt
+./bonus 20 14 > second_14.txt
+./bonus 20 20 > second_20.txt
+./bonus 20 28 > second_28.txt

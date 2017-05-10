@@ -1,0 +1,17 @@
+#! /bin/bash -login
+
+#PBS -l walltime=01:00:00 ,nodes=1:ppn=28 ,feature=intel16
+#PBS -j oe
+#PBS -N countJ
+
+#change to the working directory where code is located
+#cd ~/cse491-ishidacy/homework/3/prob2
+cd $PBS_O_WORKDIR
+
+./jparallel 75000 1 > j_1.txt 
+./jparallel 75000 2 > j_2.txt
+./jparallel 75000 4 > j_4.txt
+./jparallel 75000 8 > j_8.txt
+./jparallel 75000 14 > j_14.txt
+./jparallel 75000 20 > j_20.txt
+./jparallel 75000 28 > j_28.txt

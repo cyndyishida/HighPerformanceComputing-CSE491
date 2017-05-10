@@ -1,0 +1,4 @@
+n = 75000
+Time needed for count sort using 20 threads = 1005.97
+time needed for sequential Quicksort = 0.0102626
+Correct Ans
