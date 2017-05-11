@@ -1,0 +1,31 @@
+#! /bin/bash -login
+
+#PBS -l walltime=01:00:00 ,nodes=10:ppn=28 ,feature=intel16
+#PBS -j oe
+#PBS -N trapezoid
+
+#change to the working directory where code is located
+#cd ~/cse491-ishidacy/homework/4/prob2
+cd $PBS_O_WORKDIR
+
+mpiexec -n 1 ./trapezoid 1 10 10000  > first_1.txt 
+mpiexec -n 2 ./trapezoid 1 10 10000  > first_2.txt
+mpiexec -n 5 ./trapezoid 1 10 10000  > first_4.txt
+mpiexec -n 10 ./trapezoid 1 10 10000  > first_8.txt
+mpiexec -n 20 ./trapezoid 1 10 10000  > first_14.txt
+mpiexec -n 100 ./trapezoid 1 10 10000  > first_20.txt
+mpiexec -n 250 ./trapezoid 1 10 10000  > first_28.txt
+mpiexec -n 1 ./trapezoid 1 10 100000  > second_1.txt
+mpiexec -n 2 ./trapezoid 1 10 100000  > second_2.txt
+mpiexec -n 5 ./trapezoid 1 10 100000  > second_4.txt
+mpiexec -n 10 ./trapezoid 1 10 100000  > second_8.txt
+mpiexec -n 20 ./trapezoid 1 10 100000  > second_14.txt
+mpiexec -n 100 ./trapezoid 1 10 100000  > second_20.txt
+mpiexec -n 250 ./trapezoid 1 10 100000  > second_28.txt
+mpiexec -n 1 ./trapezoid 1 10 10000000  > third_1.txt
+mpiexec -n 2 ./trapezoid 1 10 10000000  > third_2.txt
+mpiexec -n 5 ./trapezoid 1 10 10000000  > third_4.txt
+mpiexec -n 10 ./trapezoid 1 10 10000000  > third_8.txt
+mpiexec -n 20 ./trapezoid 1 10 10000000  > third_14.txt
+mpiexec -n 100 ./trapezoid 1 10 10000000  > third_20.txt
+mpiexec -n 250 ./trapezoid 1 10 10000000  > third_28.txt
