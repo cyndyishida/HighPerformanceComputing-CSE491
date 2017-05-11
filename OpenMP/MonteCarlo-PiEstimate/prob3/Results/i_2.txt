@@ -1,4 +1,0 @@
-n = 75000
-Time needed for count sort using 2 threads = 16.9903
-time needed for sequential Quicksort = 0.0102956
-Correct Ans

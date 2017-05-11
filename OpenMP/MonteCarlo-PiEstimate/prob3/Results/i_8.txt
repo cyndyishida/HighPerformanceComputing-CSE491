@@ -1,4 +1,0 @@
-n = 75000
-Time needed for count sort using 8 threads = 4.2044
-time needed for sequential Quicksort = 0.0103587
-Correct Ans
