@@ -1,0 +1,28 @@
+#! /bin/bash -login
+
+#PBS -l walltime=01:00:00 ,nodes=1:ppn=28 ,feature=intel16
+#PBS -j oe
+#PBS -N encryption
+
+#change to the working directory where code is located
+#cd ~/cse491-ishidacy/homework/4/prob2
+cd $PBS_O_WORKDIR
+
+
+
+
+mpiexec -n 28 ./decrypt inp1.txt.ecp  > version1.txt
+mpiexec -n 28 ./decrypt inp2.txt.ecp  >> version1.txt
+./encrypt inp1.txt 1024
+./encrypt inp2.txt 16777216 
+mpiexec -n 28 ./decrypt inp1.txt.ecp  >> version1.txt 
+mpiexec -n 28 ./decrypt inp2.txt.ecp  >> version1.txt
+
+./encrypt inp1.txt 1024
+./encrypt inp2.txt 414157604 
+mpiexec -n 1 ./decrypt_2 inp1.txt.ecp > version2.txt
+mpiexec -n 2 ./decrypt_2 inp1.txt.ecp >> version2.txt
+./encrypt inp1.txt 1024
+./encrypt inp2.txt 16777216 
+mpiexec -n 5 ./decrypt_2 inp1.txt.ecp >> version2.txt
+mpiexec -n 10 ./decrypt_2 inp1.txt.ecp >> version2.txt

@@ -1,0 +1,346 @@
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+[LOG] 9 encrypted bytes read.
+Trying key: 0 , from processor 0 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 1 , from processor 0 
+entering decrypting
+Trying key: 2 , from processor 0 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 3 , from processor 0 
+entering decrypting
+Trying key: 4 , from processor 0 
+printed here at 5  passed test with flag: 0 
+ entering decrypting
+Trying key: 5 , from processor 0 
+entering decrypting
+Trying key: 6 , from processor 0 
+printed here at 7  passed test with flag: 0 
+ entering decrypting
+Trying key: 7 , from processor 0 
+entering decrypting
+Trying key: 8 , from processor 0 
+printed here at 9  passed test with flag: 0 
+ entering decrypting
+Trying key: 9 , from processor 0 
+entering decrypting
+Trying key: 10 , from processor 0 
+printed here at 11  passed test with flag: 0 
+ entering decrypting
+Trying key: 11 , from processor 0 
+entering decrypting
+Trying key: 12 , from processor 0 
+printed here at 13  passed test with flag: 0 
+ entering decrypting
+Trying key: 13 , from processor 0 
+entering decrypting
+Trying key: 14 , from processor 0 
+printed here at 15  passed test with flag: 0 
+ entering decrypting
+Trying key: 15 , from processor 0 
+entering decrypting
+Trying key: 16 , from processor 0 
+printed here at 17  passed test with flag: 0 
+ entering decrypting
+Trying key: 17 , from processor 0 
+entering decrypting
+Trying key: 18 , from processor 0 
+printed here at 19  passed test with flag: 0 
+ entering decrypting
+Trying key: 19 , from processor 0 
+entering decrypting
+Trying key: 20 , from processor 0 
+printed here at 21  passed test with flag: 0 
+ entering decrypting
+Trying key: 21 , from processor 0 
+entering decrypting
+Trying key: 22 , from processor 0 
+printed here at 23  passed test with flag: 0 
+ entering decrypting
+Trying key: 23 , from processor 0 
+entering decrypting
+Trying key: 24 , from processor 0 
+printed here at 25  passed test with flag: 0 
+ entering decrypting
+Trying key: 25 , from processor 0 
+entering decrypting
+Trying key: 26 , from processor 0 
+printed here at 27  passed test with flag: 0 
+ entering decrypting
+Trying key: 27 , from processor 0 
+entering decrypting
+Trying key: 28 , from processor 0 
+printed here at 29  passed test with flag: 0 
+ entering decrypting
+Trying key: 29 , from processor 0 
+entering decrypting
+Trying key: 30 , from processor 0 
+printed here at 31  passed test with flag: 0 
+ entering decrypting
+Trying key: 31 , from processor 0 
+entering decrypting
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+[LOG] 9 encrypted bytes read.
+Trying key: 0 , from processor 0 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 2 , from processor 0 
+entering decrypting
+Trying key: 4 , from processor 0 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 6 , from processor 0 
+entering decrypting
+Trying key: 8 , from processor 0 
+printed here at 5  passed test with flag: 0 
+ entering decrypting
+Trying key: 10 , from processor 0 
+Trying key: 1 , from processor 1 
+entering decrypting
+Trying key: 12 , from processor 0 
+printed here at 7  passed test with flag: 0 
+ entering decrypting
+Trying key: 14 , from processor 0 
+entering decrypting
+Trying key: 16 , from processor 0 
+printed here at 9  passed test with flag: 0 
+ entering decrypting
+Trying key: 18 , from processor 0 
+entering decrypting
+Trying key: 20 , from processor 0 
+printed here at 11  passed test with flag: 0 
+ entering decrypting
+Trying key: 22 , from processor 0 
+entering decrypting
+Trying key: 24 , from processor 0 
+printed here at 13  passed test with flag: 0 
+ entering decrypting
+Trying key: 26 , from processor 0 
+entering decrypting
+Trying key: 28 , from processor 0 
+printed here at 15  passed test with flag: 0 
+ entering decrypting
+Trying key: 30 , from processor 0 
+entering decrypting
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+Trying key: 1 , from processor 1 
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+[LOG] 9 encrypted bytes read.
+Trying key: 0 , from processor 0 
+Trying key: 4 , from processor 4 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 9 , from processor 4 
+entering decrypting
+Trying key: 14 , from processor 4 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 19 , from processor 4 
+entering decrypting
+Trying key: 24 , from processor 4 
+printed here at 5  passed test with flag: 0 
+ entering decrypting
+Trying key: 29 , from processor 4 
+entering decrypting
+Trying key: 3 , from processor 3 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 8 , from processor 3 
+entering decrypting
+Trying key: 13 , from processor 3 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 18 , from processor 3 
+entering decrypting
+Trying key: 23 , from processor 3 
+printed here at 5  passed test with flag: 0 
+ entering decrypting
+Trying key: 28 , from processor 3 
+entering decrypting
+Trying key: 2 , from processor 2 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 7 , from processor 2 
+entering decrypting
+Trying key: 12 , from processor 2 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 17 , from processor 2 
+entering decrypting
+Trying key: 22 , from processor 2 
+printed here at 5  passed test with flag: 0 
+ entering decrypting
+Trying key: 27 , from processor 2 
+entering decrypting
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+
+
+x0r 32-bit code breaker
+
+decrypting file inp1.txt.ecp by trying all possible keys ...
+To quit, press ctrl + c
+
+Status:
+[LOG] 9 encrypted bytes read.
+Trying key: 0 , from processor 0 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 10 , from processor 0 
+entering decrypting
+Trying key: 20 , from processor 0 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 30 , from processor 0 
+entering decrypting
+Trying key: 1 , from processor 1 
+Trying key: 2 , from processor 2 
+Trying key: 5 , from processor 5 
+Trying key: 9 , from processor 9 
+Trying key: 6 , from processor 6 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 16 , from processor 6 
+entering decrypting
+Trying key: 26 , from processor 6 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
+Trying key: 8 , from processor 8 
+printed here at 1  passed test with flag: 0 
+ entering decrypting
+Trying key: 18 , from processor 8 
+entering decrypting
+Trying key: 28 , from processor 8 
+printed here at 3  passed test with flag: 0 
+ entering decrypting
