@@ -3,7 +3,7 @@
 _These assignments shouldn't be used for, nor has permission for public distrubition._
 
 
-> The data collection and shell scripts were designed for on the Michigan State University High Performance Computing Center
+> The data collection and shell scripts were designed for on the Michigan State University High Performance Computing Center (ICER)
 > All source code was written in C/C++ or compatiable frameworks
 
 
